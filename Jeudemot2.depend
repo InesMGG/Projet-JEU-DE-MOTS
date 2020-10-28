@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1580670819 source:c:\users\ines\desktop\jeudemot2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1580674419 source:c:\users\ines\desktop\bts sio1\jeudemot2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
